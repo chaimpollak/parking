@@ -9,8 +9,6 @@ either to sit idle and wait until someone will leave, or to drive around impatie
 
 waiting for someone to leave. 
 
-This program will 
-
 This program uses the monte carlo method to simulate an approximation of the time 
 
 bieng wasted by either driver and plots them on a graph.
