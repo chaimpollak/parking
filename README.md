@@ -11,7 +11,7 @@ waiting for someone to leave.
 
 This program uses the monte carlo method to simulate an approximation of the time 
 
-bieng wasted by either driver and plots them on a graph.
+being wasted by either driver and plots them on a graph.
 
 I have included the graph in this repository as parking1000.png 
 
