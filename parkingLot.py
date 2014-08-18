@@ -5,7 +5,7 @@
 # either they sit idle and wait until someone will leave, or they drive around impatiently
 # like a madman, waiting for someone to leave.
 # This program uses the monte carlo method to simulate an approximation of the time 
-# bieng wasted by either driver and plots them on a graph.
+# being wasted by either driver and plots them on a graph.
 # I have made sevral hypotheses:  
 #  * a car looking for parking can only have control over 8 cars from either direction
 #  * if the car isn't within the distance that it controls (8 cars) - the freed parking 
